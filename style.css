@@ -1,0 +1,167 @@
+* {
+	box-sizing: border-box;
+	padding: 0;
+	margin: 0;
+	background: #e9ebee;
+
+}
+header {
+	background: #4267b2;
+	height: 42px;
+}
+
+header ul li {
+	float: left;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+header ul {
+	padding-left: 400px;
+}
+
+header ul li img {
+margin: 0px;
+height: 28px;
+background: #4267b2;
+}
+
+#main {
+	background: #e9ebee;
+}
+
+#sidebar1 {
+	float: left;
+	width: 340px;
+	border: 1px solid black;
+	background: white;
+}
+#sidebar1 ul {
+	padding-left: 100px;
+	margin-bottom: 10px;
+	border-bottom:1px solid black;
+	border-top:1px solid black;
+}
+#content {
+	float: left;
+	width: 485px;
+	border:1px solid black;
+	margin-left: 15px;
+	background: white;
+	margin-top: 10px;
+	margin-bottom: 100px;	
+}
+#content #stt {
+	width: 481px;
+	height: auto;
+	border: 1px solid black;
+	margin: 1px 0px 1px 1px;
+}
+#content #stt #nhap {
+	width: 480px;
+	height: 80px;
+	background: white;
+}
+#content #stt h4 {
+	background: #f5f6f7;
+}
+#content #stt ul li {
+	float: left;
+	margin-top: 5px;
+	padding-right: 20px;
+	
+	background: white;
+}
+#content #clr {
+	clear: left;
+}
+a{
+    text-decoration: none;
+}
+li{
+	list-style-type: none;
+}
+#content #tin h4 {
+	margin-top: 10px;
+	background: white;
+}
+#content #tin ul li p{
+	float: left;
+	width: 110px;
+	height: 180px;
+	border: 1px solid black;
+	margin:8px 5px;
+	background: pink;
+}
+#content #stt-friends .stt1 {
+	margin-top: 10px;
+	background: white;
+	border: 3px solid black;
+	padding-top: 2px;
+	
+}
+#content #stt-friends .stt1 a {
+	background: white;
+}
+#content #stt-friends .stt1 p {
+	background: white;
+}
+#content #stt-friends img {
+	width: 450px;
+	height: 220px;
+	padding-left: 18px;
+	background: white;
+}
+
+
+
+
+
+
+#sidebar2 {
+	float: left;
+	width: 330px;
+	border: 1px solid black;
+	margin-left: 10px;
+}
+#sidebar2 div #new1 {
+	border: 1px solid black;
+}
+#sidebar2 div #new1 h4 {
+	background: white;
+}
+#sidebar2 div #new1 p {
+	background: white;
+	text-align: center;
+	border: 1px solid black;
+	width: 314px;
+	height: 200px;
+	margin-left: 2px;
+	padding-top: 70px;
+	background: pink;
+}
+#sidebar2 div .new2 ul li p {
+	float: left;
+	width: 99px;
+	height: 150px;
+	border: 1px solid black;
+	margin:2px;
+	background: pink;
+}
+#sidebar2 div .new2 ul {
+	padding: 0px 9px;
+}
+
+
+
+
+
+
+#list-friends {
+	float: right;
+	width: 220px;
+	height: 
+}
+#list-friends ul {
+border: 1px solid black;
+}
+
